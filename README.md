@@ -2,7 +2,7 @@
 
 ## Student Details
 
-- **Full Name:** `Jeanard`
+- **Full Name:** `Jeanard Sinfuego`
 - **CCID:** `sinfuego`
 
 ## References and Resources
